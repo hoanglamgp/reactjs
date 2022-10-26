@@ -9,7 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> Hoc reactjs - Linh has updated this line
           Edit <code>src/App.js</code> Hoc reactjs - Linh has updated this line
-          Edit <code>src/App.js</code> Hoc reactjs - Linh has updated this line
+          Edit <code>src/App.js</code> setTimeLine terminal
         </p>
         <a
           className="App-link"
